@@ -11,10 +11,13 @@ Elas têm um nome e um valor, que pode mudar ao longo do programa.
 - bool: valores lógicos (True ou False)
 
 # 3. Atribuição de variáveis:
-idade = 25            # inteiro
-altura = 1.75         # ponto flutuante (float)
-nome = "Amanda"       # string
-estudando = True      # booleano
+|Exemplo	| Tipos|
+|-----------|-----------------|
+|idade = 25 	|Inteiro|
+|altura = 1.75 	|Ponto Flutuante (float)|
+|nome = "Amanda" | String (str)|
+|estudando = True | booleano (bool) - Verdadeiro (True) X Falso (False)|
+
 
 # 4. Exibindo valores com print
 print("Nome:", nome)
